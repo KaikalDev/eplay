@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte de uma atividade do curso.
 
 ## Descrição
-O eplay é um site de venda de jogos eletrônicos, construído com React e TypeScript, projetado para proporcionar uma experiência interativa aos usuários. O projeto utiliza várias bibliotecas para facilitar testes, gerenciamento de estado e integração com ferramentas de desenvolvimento, além de seguir boas práticas de codificação.
+O eplay é um projeto desenvolvido como parte do curso de Front-End da EBAC, focado na criação de um site para venda de jogos eletrônicos. O objetivo é oferecer uma plataforma completa que permita aos usuários navegar e adquirir jogos de forma interativa. Este projeto utiliza uma API para gerenciar informações sobre os jogos e é uma aplicação prática dos conceitos e técnicas aprendidos ao longo do curso, abrangendo desde o design da interface até a integração com APIs e gerenciamento de estados.
 
 ## Principais Tecnologias
 - **React**: Biblioteca para construção de interfaces de usuário.
